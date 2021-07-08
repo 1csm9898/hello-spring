@@ -1,0 +1,5 @@
+package hello.hellospring.controller;
+
+@Controller
+public class HelloController {
+}
